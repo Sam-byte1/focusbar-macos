@@ -135,14 +135,8 @@ docs/images/         # 经过筛选的界面截图
 - 无自动更新、账户、云同步、阻止网站、任务管理和历史清空功能。
 - 当前 SDK 曾输出 Charts 轴标签兼容警告及开发路径诊断，不能视为跨版本兼容保证。
 
-## 来源与许可证
+## 许可证与致谢
 
-本项目基于 [ivoronin/TomatoBar](https://github.com/ivoronin/TomatoBar) 修改，基线提交：
+本项目采用 MIT 许可证，部分代码源自 [TomatoBar](https://github.com/ivoronin/TomatoBar)。感谢原项目的开源贡献，原版权及许可声明已保留，详见 [LICENSE](LICENSE)；详细来源与资源说明见 [UPSTREAM.txt](TomatoBar/UPSTREAM.txt)。
 
-```text
-90a77d664dfe33c016bf24f89b0c82e77f9aec84
-```
-
-原版权及 MIT 许可保留，详见 [LICENSE](LICENSE) 和 [UPSTREAM.txt](TomatoBar/UPSTREAM.txt)。本仓库不是上游官方版本，也不表示上游背书。
-
-上游单独授权的音效、旧品牌图标和原发布工作流未包含在公开版本中。FocusBar Logo 为项目原创，随本项目以 MIT 许可证提供；系统图标和提示音通过 macOS API 使用。
+FocusBar Logo 为项目原创，随本项目以 MIT 许可证提供；系统图标和提示音通过 macOS API 使用。
