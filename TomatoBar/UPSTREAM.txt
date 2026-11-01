@@ -1,0 +1,21 @@
+FocusBar（专注条）— local modification of TomatoBar
+Upstream: https://github.com/ivoronin/TomatoBar
+Commit: 90a77d664dfe33c016bf24f89b0c82e77f9aec84
+Downloaded: 2026-11-01
+Archive SHA-256: 93900b484965456955c176e69307b39b5c9113701bfd2db268f1a03943cf8ff6
+
+Original code: Copyright (c) 2022 Ilya Voronin, MIT; see LICENSE.
+Modifications: single-session focus timer, fixed-width menu bar progress image,
+Chinese popover, continuous-clock pause/resume, native notifications and hotkey,
+and a Command Line Tools build path. Version 2 adds a shared independent window,
+custom focus types, local versioned history/checkpoints, actual-time statistics,
+Swift Charts dashboards, filtered CSV export and configuration UI. Sleep pauses
+sessions; app absence is never inferred as focus time. Original Xcode project
+retained and adjusted.
+
+Original bundled audio/assets and upstream CI scripts are excluded from this
+public distribution. The modified application uses original FocusBar artwork,
+SF Symbols and system sounds; it does not redistribute the separately licensed
+audio from upstream. Retained code and original notices remain under MIT.
+No relationship with, endorsement by, or official release from the upstream project
+is implied. This is an ad-hoc-signed local development build, not a notarized release.
