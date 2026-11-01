@@ -1,6 +1,6 @@
 # 专注条 · FocusBar
 
-<img src="assets/FocusBar.png" width="112" alt="FocusBar 图标">
+![专注条 FocusBar 产品介绍](docs/images/focusbar-github-hero.png)
 
 **想开始，就先专注 25 分钟。** 一个原生 macOS 专注工具：工作时只留下菜单栏进度条，回顾时打开独立窗口。
 
